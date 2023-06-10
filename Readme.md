@@ -1,4 +1,4 @@
-# A QR Code Generator usin Python
+# A QR Code Generator using Python
 
 ### Author Links
 
